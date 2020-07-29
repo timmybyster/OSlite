@@ -1,0 +1,5 @@
+.mxproject
+.project
+STM32L476ZGTX_FLASH.ld
+STM32L476ZGTX_RAM.ld
+.settings/language.settings.xml
